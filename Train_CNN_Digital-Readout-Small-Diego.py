@@ -237,7 +237,11 @@ with open('modelsummary.txt', 'w') as f:
 
 model.export_model().save('watermetter_model.h5')
 
-converter = tf.lite.TFLiteConverter.from_keras_model(model)
+from tensorflow.keras.models import load_model
+
+loaded_model = load_model('watermetter_model.h5', custom_objects=ak.CUSTOM_OBJECTS)
+
+converter = tf.lite.TFLiteConverter.from_keras_model(loaded_model)
 converter.optimizations = [tf.lite.Optimize.OPTIMIZE_FOR_SIZE]
 converter.optimizations = [tf.lite.Optimize.DEFAULT]
 tflite_model = converter.convert()
