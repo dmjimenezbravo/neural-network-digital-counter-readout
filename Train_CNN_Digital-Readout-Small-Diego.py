@@ -33,6 +33,23 @@ val_loss_ges = np.array([])
 np.set_printoptions(precision=4)
 np.set_printoptions(suppress=True)
 
+
+################# WORKAROUND LOZA GPUS ############################
+
+gpus = tf.config.list_physical_devices('GPU')
+if gpus:
+  # Restrict TensorFlow to only use the first GPU
+  try:
+    tf.config.experimental.set_visible_devices(gpus[0], 'GPU')
+    # Currently, memory growth needs to be the same across GPUs
+    for gpu in gpus:
+        tf.config.experimental.set_memory_growth(gpu, True)
+    logical_gpus = tf.config.experimental.list_logical_devices('GPU')
+    print(len(gpus), "Physical GPUs,", len(logical_gpus), "Logical GPU")
+  except RuntimeError as e:
+    # Visible devices must be set before GPUs have been initialized
+    print(e)
+
 ##########################################################################
 
 def generator_to_array(generator,
@@ -190,8 +207,8 @@ if (Training_Percentage > 0):
     X_train, X_val, y_train, y_val = train_test_split(X_train_temp, y_train_temp, test_size=Training_Percentage)
 
 ##########################################################################
-
-model = ak.ImageClassifier(overwrite=True, multi_label=True, max_trials=100)
+# max model size issue => https://github.com/keras-team/autokeras/issues/1479
+model = ak.ImageClassifier(overwrite=True, max_trials=1)
 
 ##########################################################################
 

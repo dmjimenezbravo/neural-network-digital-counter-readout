@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c765141f-91d5-41f6-bd4b-ebd9bd8da887" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c765141f-91d5-41f6-bd4b-ebd9bd8da887" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Train_CNN_Digital-Readout-Small-Diego.py" beforeDir="false" afterPath="$PROJECT_DIR$/Train_CNN_Digital-Readout-Small-Diego.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/best_model/saved_model.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/best_model/variables/variables.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/best_model/variables/variables.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/best_pipeline" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/graph" beforeDir="false" afterPath="$PROJECT_DIR$/image_classifier/graph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/oracle.json" beforeDir="false" afterPath="$PROJECT_DIR$/image_classifier/oracle.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_0/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_0/checkpoint.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_0/checkpoint.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_1/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_1/checkpoint.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_1/checkpoint.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_2/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_2/checkpoint.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_2/checkpoint.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_3/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_3/checkpoint.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_3/checkpoint.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_4/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_4/checkpoint.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_4/checkpoint.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_5/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_5/checkpoint.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_5/checkpoint.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_6/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_6/checkpoint.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_6/checkpoint.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_7/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_7/checkpoint.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_7/checkpoint.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_8/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_8/checkpoint.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/checkpoints/epoch_8/checkpoint.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/pipeline" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_classifier/trial_5bf04f01239a97ddc5135ea107e08048/trial.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +55,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="881b48e2-b02a-4603-bb31-ba5c3c9a7feb" />
   <component name="ProjectId" id="1osaQRgW93UWckGojwyviLfLMMF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -26,17 +69,34 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager">
+    <configuration name="Train_CNN_Digital-Readout-Small-Diego" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="neural-network-digital-counter-readout" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train_CNN_Digital-Readout-Small-Diego.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Python.Train_CNN_Digital-Readout-Small-Diego" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,6 +110,9 @@
       <updated>1614077735080</updated>
       <workItem from="1614077736538" duration="9519000" />
       <workItem from="1614330963085" duration="2275000" />
+      <workItem from="1614933582255" duration="3487000" />
+      <workItem from="1614964413334" duration="722000" />
+      <workItem from="1614965151192" duration="15382000" />
     </task>
     <servers />
   </component>
@@ -68,5 +131,66 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1615036590743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.bottom/-1920.357.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614947862450" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614447993910" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/3840.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1615036590743" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1615036590743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.center/-1920.357.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614947862450" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614447993910" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center/3840.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1615036590743" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1615036590742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.left/-1920.357.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614947862450" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614447993910" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left/3840.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1615036590742" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1615036590743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.right/-1920.357.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614947862450" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614447993910" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/3840.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1615036590743" />
+    <state width="1878" height="297" key="GridCell.Tab.1.bottom" timestamp="1615036590682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.1.bottom/-1920.357.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614947862385" />
+    <state width="1877" height="277" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614447993910" />
+    <state width="1878" height="297" key="GridCell.Tab.1.bottom/3840.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1615036590682" />
+    <state width="1878" height="297" key="GridCell.Tab.1.center" timestamp="1615036590682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.1.center/-1920.357.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614947862385" />
+    <state width="1877" height="277" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614447993910" />
+    <state width="1878" height="297" key="GridCell.Tab.1.center/3840.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1615036590682" />
+    <state width="1878" height="297" key="GridCell.Tab.1.left" timestamp="1615036590682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.1.left/-1920.357.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614947862385" />
+    <state width="1877" height="277" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614447993910" />
+    <state width="1878" height="297" key="GridCell.Tab.1.left/3840.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1615036590682" />
+    <state width="1878" height="297" key="GridCell.Tab.1.right" timestamp="1615036590682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.1.right/-1920.357.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614947862385" />
+    <state width="1877" height="277" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614447993910" />
+    <state width="1878" height="297" key="GridCell.Tab.1.right/3840.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1615036590682" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1614965151110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.357.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614933582387" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/3840.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1614965151110" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/neural_network_digital_counter_readout$SCUT2SINGLEDIGIT.coverage" NAME="SCUT2SINGLEDIGIT Coverage Results" MODIFIED="1614371235750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset_scut" />
+    <SUITE FILE_PATH="coverage/neural_network_digital_counter_readout$cnn.coverage" NAME="cnn Coverage Results" MODIFIED="1614258591068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ANNVISUALIZATION/pyexamples" />
+    <SUITE FILE_PATH="coverage/neural_network_digital_counter_readout$pytest_in_test_simple_py.coverage" NAME="pytest in test_simple.py Coverage Results" MODIFIED="1614258504895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ANNVISUALIZATION/pyexamples" />
+    <SUITE FILE_PATH="coverage/neural_network_digital_counter_readout$Train_CNN_Digital_Readout_Small_Diego.coverage" NAME="Train_CNN_Digital-Readout-Small-Diego Coverage Results" MODIFIED="1615036590650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
