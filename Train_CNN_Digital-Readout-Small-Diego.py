@@ -206,8 +206,14 @@ y_test = generator_to_array(test_iterator, False)
 if (Training_Percentage > 0):
     X_train, X_val, y_train, y_val = train_test_split(X_train_temp, y_train_temp, test_size=Training_Percentage)
 
+
+'''
 ##########################################################################
 # max model size issue => https://github.com/keras-team/autokeras/issues/1479
+
+# Autokeras Cross Validation --> https://github.com/keras-team/autokeras/discussions/1434
+
+
 model = ak.ImageClassifier(overwrite=True, max_trials=1)
 
 ##########################################################################
@@ -233,9 +239,16 @@ with open('modelsummary.txt', 'w') as f:
     with redirect_stdout(f):
         model.export_model().summary()
 
+
+
 ##########################################################################
 
+# TFLITE FOR MICROCONTROLLERS USEFUL INFO:
+
+# https://www.irnas.eu/creating-simple-keras-model-for-inference-on-microcontrollers/
+
 model.export_model().save('watermetter_model.h5')
+'''
 
 from tensorflow.keras.models import load_model
 
